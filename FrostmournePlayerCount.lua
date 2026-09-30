@@ -134,7 +134,7 @@ ChatFrame_AddMessageEventFilter("CHAT_MSG_SAY", ChatMsgFilter)
 ------------------------------------------------------------
 -- Slash Command
 ------------------------------------------------------------
-SLASH_FROSTMOORNETEST1 = "/fpc"
+SLASH_FROSTMOURNEPC = "/fpc"
 
 SlashCmdList["FROSTMOURNEPC"] = function(msg)
     SendTestCommand()
