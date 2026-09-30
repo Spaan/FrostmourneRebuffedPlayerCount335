@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Frostmourne Player Count
+## Notes: Displays the player count for Frostmourne Rebuffed
+## Author: Spaan
+## Version: 1.0
+
+FrostmournePlayerCount.lua
